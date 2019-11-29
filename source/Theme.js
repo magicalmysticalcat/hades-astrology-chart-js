@@ -5,7 +5,7 @@ class Theme
     }
 
     GetTheme (type){
-        return GetClassic();
+        return this.GetClassic();
     }
 
     GetClassic()
