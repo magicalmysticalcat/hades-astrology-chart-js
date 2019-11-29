@@ -1,11 +1,11 @@
 class Theme
 {
     constructor(){
-        
+
     }
 
     GetTheme (type){
-        return Theme.GetClassic();
+        return GetClassic();
     }
 
     GetClassic()
