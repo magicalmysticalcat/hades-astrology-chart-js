@@ -1,5 +1,5 @@
 {
-  "name": "hades-astrology-chart",
+  "name": "@goldenius/hades-astrology-chart-js",
   "version": "0.0.1",
   "description": "Astrological chart component",
   "main": "./distribution/index.js",
